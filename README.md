@@ -19,7 +19,6 @@ Through this integrated approach, the platform seeks to improve farmer profitabi
 The trader submits crop requirements to the government, which allocates farmlands to farmers based on previous soil data and regional crop details, using Graph Neural Networks and K-Means Clustering for optimized resource allocation. A bidding system is initiated where traders bid on or above the Fair Farm Price. After the cropping season, crops are handed over to government warehouses, and a distribution system is optimized using Mixed Integer Linear Programming for efficient supply chain management.
 
 ### System Design 
-![Screenshot 2024-09-17 201908](https://github.com/user-attachments/assets/a49ca044-1076-48e7-a1ad-89cecea5ba1f)
 ![Screenshot 2024-09-17 212706](https://github.com/user-attachments/assets/545f1ac3-f799-4640-9b2d-5b5ea1fd5582)
 
 
