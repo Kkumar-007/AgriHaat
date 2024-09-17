@@ -11,4 +11,8 @@ Indian farmers face numerous challenges, including limited market access, price 
 
 Through this integrated approach, the platform seeks to improve farmer profitability, ensure sustainable incomes, and reduce traditional farming risks.
 
+## Solution
+### An AI-driven platform for Optimized Crop Allocation, Fair Pricing and Direct Market Access for Farmers Enhancing Profitability
+![AgriHaat](assets/Logo.png)
+
 
