@@ -16,6 +16,7 @@ Through this integrated approach, the platform seeks to improve farmer profitabi
 
 ## Solution
 ### An AI-driven platform for Optimized Crop Allocation, Fair Pricing and Direct Market Access for Farmers Enhancing Profitability
-![AgriHaat](assets/Logo.png)
+![Screenshot 2024-09-17 201257](https://github.com/user-attachments/assets/56ce88cc-bbef-48d8-9146-f2851884042b)
+
 
 
