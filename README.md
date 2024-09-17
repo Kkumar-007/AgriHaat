@@ -22,8 +22,8 @@ The trader submits crop requirements to the government, which allocates farmland
 
 ### System Design 
 ![Screenshot 2024-09-17 201908](https://github.com/user-attachments/assets/a49ca044-1076-48e7-a1ad-89cecea5ba1f)
+![Screenshot 2024-09-17 212706](https://github.com/user-attachments/assets/545f1ac3-f799-4640-9b2d-5b5ea1fd5582)
 
-![Screenshot 2024-09-17 201859](https://github.com/user-attachments/assets/e5bb37b4-6b4a-48bf-93db-62de531d016d)
 
 ### Tech Stacks
 
